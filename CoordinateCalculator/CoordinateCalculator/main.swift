@@ -8,4 +8,8 @@
 
 import Foundation
 
-OutputView.drawAxis()
+func executeCoordinateCalculater(){
+    OutputView.drawAxis()
+}
+
+executeCoordinateCalculater()
