@@ -27,7 +27,7 @@
 /* Begin PBXFileReference section */
 		4079E9621FAABBD2003615D5 /* OutputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutputView.swift; sourceTree = "<group>"; };
 		8377CC4E1F8B6F7E007F7335 /* CoordinateCalculator */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = "compiled.mach-o.executable"; path = CoordinateCalculator; sourceTree = BUILT_PRODUCTS_DIR; };
-		8377CC511F8B6F7E007F7335 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8377CC511F8B6F7E007F7335 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = main.swift; path = "/Users/Mrlee/Library/Developer/Xcode/DerivedData/CoordinateCalculator-ckmscqzgqnmhqbautdwanvhhbyko/Build/Products/Debug/../../../../../../../../Documents/CodeSquad_Napster/iOS Level 2/swift-coordinate/CoordinateCalculator/CoordinateCalculator/main.swift"; sourceTree = "<absolute>"; };
 		8377CC6F1F8BAF74007F7335 /* ANSICode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ANSICode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
